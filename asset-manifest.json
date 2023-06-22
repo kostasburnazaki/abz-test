@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/abz-test/static/js/main.db3500d7.js",
+    "index.html": "/abz-test/index.html",
+    "main.db3500d7.js.map": "/abz-test/static/js/main.db3500d7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.db3500d7.js"
+  ]
+}
